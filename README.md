@@ -1,7 +1,5 @@
 ### Hi there, I am Isma 👋
 
-## Trying to be better than yesterday
-
 ### Who am I?
 - I am a Husband
 - BJJ Practitioner
