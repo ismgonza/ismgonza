@@ -2,10 +2,9 @@
 
 ### Who am I?
 - I am a Husband
-- BJJ Practitioner
+- BJJ Blue Belt
 - Self-taught Developer
 - InfoSec Engineer
-- I love surfing
 
 ### What am I doing?
 - Currently focused on Python & Javascript
