@@ -1,10 +1,16 @@
 ### Hi there, I am Isma 👋
 
-## I am a Husband | BJJ Practitioner | Self-taught Dev | InfoSec Engineer
+## Who am I?
+- I am a Husband
+- BJJ Practitioner
+- Self-taught Developer
+- InfoSec Engineer
+- I love surfing
 
-- :snake: Currently focused on Python & Javascript
-- :chart_with_upwards_trend: Next Steps Data Science & Machine Learning
-- :surfer: Fun fact: I enjoy surfing
+### What am I doing?
+- Currently focused on Python & Javascript
+- Starting with Data Science & Machine Learning
+- Looking for ways to improve log analysis
 
 ### Languages and Tools:
 
