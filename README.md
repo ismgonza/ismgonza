@@ -2,7 +2,7 @@
 
 ### Who am I?
 - I am a Husband
-- BJJ Blue Belt
+- BJJ Purple Belt
 - Self-taught Developer
 - InfoSec Engineer
 
