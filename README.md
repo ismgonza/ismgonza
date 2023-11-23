@@ -1,10 +1,11 @@
 ### Hi there, I am Isma 👋
 
 ### Who am I?
-- I am a Husband
+- A simple man, a Husband and a Father
 - BJJ Purple Belt
 - Self-taught Developer
 - InfoSec Engineer
+- Cloud Engineer
 
 ### What am I doing?
 - Currently focused on Python & Javascript
